@@ -1,10 +1,10 @@
 import React from 'react';
 import { View, Text, Button } from 'react-native';
 
-const Formacao = ({ navigation }) => {
+const Habilidades = ({ navigation }) => {
     return (
         <View>
-            <Text> Testando a formação</Text>
+            <Text> Testando as Habilidades</Text>
             <Button 
                 title="Voltar"
                 onPress={ () => navigation.goBack() }
@@ -13,4 +13,4 @@ const Formacao = ({ navigation }) => {
     );
 }
 
-export default Formacao;
+export default Habilidades;
