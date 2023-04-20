@@ -18,12 +18,13 @@ const estilo = StyleSheet.create({
         elevation: 1,
         padding: 10,
         flexBasis: '48%',
+        borderRadius:50,
     },
     texto: {
         fontSize: "1.3em",
         fontFamily: "Trebuchet MS",
         fontWeight: 'bold',
-        color: "#00a",
+        color: "#D14D72",
     }
 });
 
