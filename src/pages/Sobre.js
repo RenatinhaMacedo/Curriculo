@@ -7,8 +7,7 @@ const Sobre = ({ navigation }) => {
         <View>
             <Text >Sobre mim</Text>
             <Text>
-                Meu nome é Renata, tenho 17 anos, gosto de animais, 
-                de anime e mitologia grega/nórdica.
+                Meu nome é Renata, obrigada por chegar até aqui!
             </Text>
 
             <Button 
